@@ -7,7 +7,7 @@ A simple, responsive To-Do List web application built using HTML, CSS, and JavaS
 
 Live Demo
 
-You can view the live demo here -
+You can view the live demo here - https://suredivya-to-do-list.netlify.app/
 
 Features
 
