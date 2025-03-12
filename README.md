@@ -30,8 +30,8 @@ Contributions are welcome! If you have any suggestions for improvements or new f
 
 Contact
 
-If you want to connect, you can find me on:
-GitHub: https://github.com/divya-sure
-LinkedIn: https://www.linkedin.com/in/sure-venkata-naga-divya-b9109b244/
+If you want to connect, you can find me on:   
+GitHub: https://github.com/divya-sure  
+LinkedIn: https://www.linkedin.com/in/sure-venkata-naga-divya-b9109b244/  
 
 Happy Coding! 🚀
